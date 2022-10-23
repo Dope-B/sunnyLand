@@ -1,0 +1,4459 @@
+fileFormatVersion: 2
+guid: dad00295ca6713a46af5adb6f689e023
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Mobile - Adventure Bar Story - Item Icons_0
+  - first:
+      213: 21300002
+    second: Mobile - Adventure Bar Story - Item Icons_1
+  - first:
+      213: 21300004
+    second: Mobile - Adventure Bar Story - Item Icons_2
+  - first:
+      213: 21300006
+    second: Mobile - Adventure Bar Story - Item Icons_3
+  - first:
+      213: 21300008
+    second: Mobile - Adventure Bar Story - Item Icons_4
+  - first:
+      213: 21300010
+    second: Mobile - Adventure Bar Story - Item Icons_5
+  - first:
+      213: 21300012
+    second: Mobile - Adventure Bar Story - Item Icons_6
+  - first:
+      213: 21300014
+    second: Mobile - Adventure Bar Story - Item Icons_7
+  - first:
+      213: 21300016
+    second: Mobile - Adventure Bar Story - Item Icons_8
+  - first:
+      213: 21300018
+    second: Mobile - Adventure Bar Story - Item Icons_9
+  - first:
+      213: 21300020
+    second: Mobile - Adventure Bar Story - Item Icons_10
+  - first:
+      213: 21300022
+    second: Mobile - Adventure Bar Story - Item Icons_11
+  - first:
+      213: 21300024
+    second: Mobile - Adventure Bar Story - Item Icons_12
+  - first:
+      213: 21300026
+    second: Mobile - Adventure Bar Story - Item Icons_13
+  - first:
+      213: 21300028
+    second: Mobile - Adventure Bar Story - Item Icons_14
+  - first:
+      213: 21300030
+    second: Mobile - Adventure Bar Story - Item Icons_15
+  - first:
+      213: 21300032
+    second: Mobile - Adventure Bar Story - Item Icons_16
+  - first:
+      213: 21300034
+    second: Mobile - Adventure Bar Story - Item Icons_17
+  - first:
+      213: 21300036
+    second: Mobile - Adventure Bar Story - Item Icons_18
+  - first:
+      213: 21300038
+    second: Mobile - Adventure Bar Story - Item Icons_19
+  - first:
+      213: 21300040
+    second: Mobile - Adventure Bar Story - Item Icons_20
+  - first:
+      213: 21300042
+    second: Mobile - Adventure Bar Story - Item Icons_21
+  - first:
+      213: 21300044
+    second: Mobile - Adventure Bar Story - Item Icons_22
+  - first:
+      213: 21300046
+    second: Mobile - Adventure Bar Story - Item Icons_23
+  - first:
+      213: 21300048
+    second: Mobile - Adventure Bar Story - Item Icons_24
+  - first:
+      213: 21300050
+    second: Mobile - Adventure Bar Story - Item Icons_25
+  - first:
+      213: 21300052
+    second: Mobile - Adventure Bar Story - Item Icons_26
+  - first:
+      213: 21300054
+    second: Mobile - Adventure Bar Story - Item Icons_27
+  - first:
+      213: 21300056
+    second: Mobile - Adventure Bar Story - Item Icons_28
+  - first:
+      213: 21300058
+    second: Mobile - Adventure Bar Story - Item Icons_29
+  - first:
+      213: 21300060
+    second: Mobile - Adventure Bar Story - Item Icons_30
+  - first:
+      213: 21300062
+    second: Mobile - Adventure Bar Story - Item Icons_31
+  - first:
+      213: 21300064
+    second: Mobile - Adventure Bar Story - Item Icons_32
+  - first:
+      213: 21300066
+    second: Mobile - Adventure Bar Story - Item Icons_33
+  - first:
+      213: 21300068
+    second: Mobile - Adventure Bar Story - Item Icons_34
+  - first:
+      213: 21300070
+    second: Mobile - Adventure Bar Story - Item Icons_35
+  - first:
+      213: 21300072
+    second: Mobile - Adventure Bar Story - Item Icons_36
+  - first:
+      213: 21300074
+    second: Mobile - Adventure Bar Story - Item Icons_37
+  - first:
+      213: 21300076
+    second: Mobile - Adventure Bar Story - Item Icons_38
+  - first:
+      213: 21300078
+    second: Mobile - Adventure Bar Story - Item Icons_39
+  - first:
+      213: 21300080
+    second: Mobile - Adventure Bar Story - Item Icons_40
+  - first:
+      213: 21300082
+    second: Mobile - Adventure Bar Story - Item Icons_41
+  - first:
+      213: 21300084
+    second: Mobile - Adventure Bar Story - Item Icons_42
+  - first:
+      213: 21300086
+    second: Mobile - Adventure Bar Story - Item Icons_43
+  - first:
+      213: 21300088
+    second: Mobile - Adventure Bar Story - Item Icons_44
+  - first:
+      213: 21300090
+    second: Mobile - Adventure Bar Story - Item Icons_45
+  - first:
+      213: 21300092
+    second: Mobile - Adventure Bar Story - Item Icons_46
+  - first:
+      213: 21300094
+    second: Mobile - Adventure Bar Story - Item Icons_47
+  - first:
+      213: 21300096
+    second: Mobile - Adventure Bar Story - Item Icons_48
+  - first:
+      213: 21300098
+    second: Mobile - Adventure Bar Story - Item Icons_49
+  - first:
+      213: 21300100
+    second: Mobile - Adventure Bar Story - Item Icons_50
+  - first:
+      213: 21300102
+    second: Mobile - Adventure Bar Story - Item Icons_51
+  - first:
+      213: 21300104
+    second: Mobile - Adventure Bar Story - Item Icons_52
+  - first:
+      213: 21300106
+    second: Mobile - Adventure Bar Story - Item Icons_53
+  - first:
+      213: 21300108
+    second: Mobile - Adventure Bar Story - Item Icons_54
+  - first:
+      213: 21300110
+    second: Mobile - Adventure Bar Story - Item Icons_55
+  - first:
+      213: 21300112
+    second: Mobile - Adventure Bar Story - Item Icons_56
+  - first:
+      213: 21300114
+    second: Mobile - Adventure Bar Story - Item Icons_57
+  - first:
+      213: 21300116
+    second: Mobile - Adventure Bar Story - Item Icons_58
+  - first:
+      213: 21300118
+    second: Mobile - Adventure Bar Story - Item Icons_59
+  - first:
+      213: 21300120
+    second: Mobile - Adventure Bar Story - Item Icons_60
+  - first:
+      213: 21300122
+    second: Mobile - Adventure Bar Story - Item Icons_61
+  - first:
+      213: 21300124
+    second: Mobile - Adventure Bar Story - Item Icons_62
+  - first:
+      213: 21300126
+    second: Mobile - Adventure Bar Story - Item Icons_63
+  - first:
+      213: 21300128
+    second: Mobile - Adventure Bar Story - Item Icons_64
+  - first:
+      213: 21300130
+    second: Mobile - Adventure Bar Story - Item Icons_65
+  - first:
+      213: 21300132
+    second: Mobile - Adventure Bar Story - Item Icons_66
+  - first:
+      213: 21300134
+    second: Mobile - Adventure Bar Story - Item Icons_67
+  - first:
+      213: 21300136
+    second: Mobile - Adventure Bar Story - Item Icons_68
+  - first:
+      213: 21300138
+    second: Mobile - Adventure Bar Story - Item Icons_69
+  - first:
+      213: 21300140
+    second: Mobile - Adventure Bar Story - Item Icons_70
+  - first:
+      213: 21300142
+    second: Mobile - Adventure Bar Story - Item Icons_71
+  - first:
+      213: 21300144
+    second: Mobile - Adventure Bar Story - Item Icons_72
+  - first:
+      213: 21300146
+    second: Mobile - Adventure Bar Story - Item Icons_73
+  - first:
+      213: 21300148
+    second: Mobile - Adventure Bar Story - Item Icons_74
+  - first:
+      213: 21300150
+    second: Mobile - Adventure Bar Story - Item Icons_75
+  - first:
+      213: 21300152
+    second: Mobile - Adventure Bar Story - Item Icons_76
+  - first:
+      213: 21300154
+    second: Mobile - Adventure Bar Story - Item Icons_77
+  - first:
+      213: 21300156
+    second: Mobile - Adventure Bar Story - Item Icons_78
+  - first:
+      213: 21300158
+    second: Mobile - Adventure Bar Story - Item Icons_79
+  - first:
+      213: 21300160
+    second: Mobile - Adventure Bar Story - Item Icons_80
+  - first:
+      213: 21300162
+    second: Mobile - Adventure Bar Story - Item Icons_81
+  - first:
+      213: 21300164
+    second: Mobile - Adventure Bar Story - Item Icons_82
+  - first:
+      213: 21300166
+    second: Mobile - Adventure Bar Story - Item Icons_83
+  - first:
+      213: 21300168
+    second: Mobile - Adventure Bar Story - Item Icons_84
+  - first:
+      213: 21300170
+    second: Mobile - Adventure Bar Story - Item Icons_85
+  - first:
+      213: 21300172
+    second: Mobile - Adventure Bar Story - Item Icons_86
+  - first:
+      213: 21300174
+    second: Mobile - Adventure Bar Story - Item Icons_87
+  - first:
+      213: 21300176
+    second: Mobile - Adventure Bar Story - Item Icons_88
+  - first:
+      213: 21300178
+    second: Mobile - Adventure Bar Story - Item Icons_89
+  - first:
+      213: 21300180
+    second: Mobile - Adventure Bar Story - Item Icons_90
+  - first:
+      213: 21300182
+    second: Mobile - Adventure Bar Story - Item Icons_91
+  - first:
+      213: 21300184
+    second: Mobile - Adventure Bar Story - Item Icons_92
+  - first:
+      213: 21300186
+    second: Mobile - Adventure Bar Story - Item Icons_93
+  - first:
+      213: 21300188
+    second: Mobile - Adventure Bar Story - Item Icons_94
+  - first:
+      213: 21300190
+    second: Mobile - Adventure Bar Story - Item Icons_95
+  - first:
+      213: 21300192
+    second: Mobile - Adventure Bar Story - Item Icons_96
+  - first:
+      213: 21300194
+    second: Mobile - Adventure Bar Story - Item Icons_97
+  - first:
+      213: 21300196
+    second: Mobile - Adventure Bar Story - Item Icons_98
+  - first:
+      213: 21300198
+    second: Mobile - Adventure Bar Story - Item Icons_99
+  - first:
+      213: 21300200
+    second: Mobile - Adventure Bar Story - Item Icons_100
+  - first:
+      213: 21300202
+    second: Mobile - Adventure Bar Story - Item Icons_101
+  - first:
+      213: 21300204
+    second: Mobile - Adventure Bar Story - Item Icons_102
+  - first:
+      213: 21300206
+    second: Mobile - Adventure Bar Story - Item Icons_103
+  - first:
+      213: 21300208
+    second: Mobile - Adventure Bar Story - Item Icons_104
+  - first:
+      213: 21300210
+    second: Mobile - Adventure Bar Story - Item Icons_105
+  - first:
+      213: 21300212
+    second: Mobile - Adventure Bar Story - Item Icons_106
+  - first:
+      213: 21300214
+    second: Mobile - Adventure Bar Story - Item Icons_107
+  - first:
+      213: 21300216
+    second: Mobile - Adventure Bar Story - Item Icons_108
+  - first:
+      213: 21300218
+    second: Mobile - Adventure Bar Story - Item Icons_109
+  - first:
+      213: 21300220
+    second: Mobile - Adventure Bar Story - Item Icons_110
+  - first:
+      213: 21300222
+    second: Mobile - Adventure Bar Story - Item Icons_111
+  - first:
+      213: 21300224
+    second: Mobile - Adventure Bar Story - Item Icons_112
+  - first:
+      213: 21300226
+    second: Mobile - Adventure Bar Story - Item Icons_113
+  - first:
+      213: 21300228
+    second: Mobile - Adventure Bar Story - Item Icons_114
+  - first:
+      213: 21300230
+    second: Mobile - Adventure Bar Story - Item Icons_115
+  - first:
+      213: 21300232
+    second: Mobile - Adventure Bar Story - Item Icons_116
+  - first:
+      213: 21300234
+    second: Mobile - Adventure Bar Story - Item Icons_117
+  - first:
+      213: 21300236
+    second: Mobile - Adventure Bar Story - Item Icons_118
+  - first:
+      213: 21300238
+    second: Mobile - Adventure Bar Story - Item Icons_119
+  - first:
+      213: 21300240
+    second: Mobile - Adventure Bar Story - Item Icons_120
+  - first:
+      213: 21300242
+    second: Mobile - Adventure Bar Story - Item Icons_121
+  - first:
+      213: 21300244
+    second: Mobile - Adventure Bar Story - Item Icons_122
+  - first:
+      213: 21300246
+    second: Mobile - Adventure Bar Story - Item Icons_123
+  - first:
+      213: 21300248
+    second: Mobile - Adventure Bar Story - Item Icons_124
+  - first:
+      213: 21300250
+    second: Mobile - Adventure Bar Story - Item Icons_125
+  - first:
+      213: 21300252
+    second: Mobile - Adventure Bar Story - Item Icons_126
+  - first:
+      213: 21300254
+    second: Mobile - Adventure Bar Story - Item Icons_127
+  - first:
+      213: 21300256
+    second: Mobile - Adventure Bar Story - Item Icons_128
+  - first:
+      213: 21300258
+    second: Mobile - Adventure Bar Story - Item Icons_129
+  - first:
+      213: 21300260
+    second: Mobile - Adventure Bar Story - Item Icons_130
+  - first:
+      213: 21300262
+    second: Mobile - Adventure Bar Story - Item Icons_131
+  - first:
+      213: 21300264
+    second: Mobile - Adventure Bar Story - Item Icons_132
+  - first:
+      213: 21300266
+    second: Mobile - Adventure Bar Story - Item Icons_133
+  - first:
+      213: 21300268
+    second: Mobile - Adventure Bar Story - Item Icons_134
+  - first:
+      213: 21300270
+    second: Mobile - Adventure Bar Story - Item Icons_135
+  - first:
+      213: 21300272
+    second: Mobile - Adventure Bar Story - Item Icons_136
+  - first:
+      213: 21300274
+    second: Mobile - Adventure Bar Story - Item Icons_137
+  - first:
+      213: 21300276
+    second: Mobile - Adventure Bar Story - Item Icons_138
+  - first:
+      213: 21300278
+    second: Mobile - Adventure Bar Story - Item Icons_139
+  - first:
+      213: 21300280
+    second: Mobile - Adventure Bar Story - Item Icons_140
+  - first:
+      213: 21300282
+    second: Mobile - Adventure Bar Story - Item Icons_141
+  - first:
+      213: 21300284
+    second: Mobile - Adventure Bar Story - Item Icons_142
+  - first:
+      213: 21300286
+    second: Mobile - Adventure Bar Story - Item Icons_143
+  - first:
+      213: 21300288
+    second: Mobile - Adventure Bar Story - Item Icons_144
+  - first:
+      213: 21300290
+    second: Mobile - Adventure Bar Story - Item Icons_145
+  - first:
+      213: 21300292
+    second: Mobile - Adventure Bar Story - Item Icons_146
+  - first:
+      213: 21300294
+    second: Mobile - Adventure Bar Story - Item Icons_147
+  - first:
+      213: 21300296
+    second: Mobile - Adventure Bar Story - Item Icons_148
+  - first:
+      213: 21300298
+    second: Mobile - Adventure Bar Story - Item Icons_149
+  - first:
+      213: 21300300
+    second: Mobile - Adventure Bar Story - Item Icons_150
+  - first:
+      213: 21300302
+    second: Mobile - Adventure Bar Story - Item Icons_151
+  - first:
+      213: 21300304
+    second: Mobile - Adventure Bar Story - Item Icons_152
+  - first:
+      213: 21300306
+    second: Mobile - Adventure Bar Story - Item Icons_153
+  - first:
+      213: 21300308
+    second: Mobile - Adventure Bar Story - Item Icons_154
+  - first:
+      213: 21300310
+    second: Mobile - Adventure Bar Story - Item Icons_155
+  - first:
+      213: 21300312
+    second: Mobile - Adventure Bar Story - Item Icons_156
+  - first:
+      213: 21300314
+    second: Mobile - Adventure Bar Story - Item Icons_157
+  - first:
+      213: 21300316
+    second: Mobile - Adventure Bar Story - Item Icons_158
+  - first:
+      213: 21300318
+    second: Mobile - Adventure Bar Story - Item Icons_159
+  - first:
+      213: 21300320
+    second: Mobile - Adventure Bar Story - Item Icons_160
+  - first:
+      213: 21300322
+    second: Mobile - Adventure Bar Story - Item Icons_161
+  - first:
+      213: 21300324
+    second: Mobile - Adventure Bar Story - Item Icons_162
+  - first:
+      213: 21300326
+    second: Mobile - Adventure Bar Story - Item Icons_163
+  - first:
+      213: 21300328
+    second: Mobile - Adventure Bar Story - Item Icons_164
+  - first:
+      213: 21300330
+    second: Mobile - Adventure Bar Story - Item Icons_165
+  - first:
+      213: 21300332
+    second: Mobile - Adventure Bar Story - Item Icons_166
+  - first:
+      213: 21300334
+    second: Mobile - Adventure Bar Story - Item Icons_167
+  - first:
+      213: 21300336
+    second: Mobile - Adventure Bar Story - Item Icons_168
+  - first:
+      213: 21300338
+    second: Mobile - Adventure Bar Story - Item Icons_169
+  - first:
+      213: 21300340
+    second: Mobile - Adventure Bar Story - Item Icons_170
+  - first:
+      213: 21300342
+    second: Mobile - Adventure Bar Story - Item Icons_171
+  - first:
+      213: 21300344
+    second: Mobile - Adventure Bar Story - Item Icons_172
+  - first:
+      213: 21300346
+    second: Mobile - Adventure Bar Story - Item Icons_173
+  - first:
+      213: 21300348
+    second: Mobile - Adventure Bar Story - Item Icons_174
+  - first:
+      213: 21300350
+    second: Mobile - Adventure Bar Story - Item Icons_175
+  - first:
+      213: 21300352
+    second: Mobile - Adventure Bar Story - Item Icons_176
+  - first:
+      213: 21300354
+    second: Mobile - Adventure Bar Story - Item Icons_177
+  - first:
+      213: 21300356
+    second: Mobile - Adventure Bar Story - Item Icons_178
+  - first:
+      213: 21300358
+    second: Mobile - Adventure Bar Story - Item Icons_179
+  - first:
+      213: 21300360
+    second: Mobile - Adventure Bar Story - Item Icons_180
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 191
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d75b72c2d93e294880c81a2f9634789
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 191
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea6f2f9040235a4592d556c07edc12e
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 191
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4306bc386a2ecd4f95ecabac1599e55
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 191
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6194fd2703675824b900125ae02b8223
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 191
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cab6355b41b0d45ac118b155b59c5f
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 191
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000b71e60e6e09f478c8379e89e6512e
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 191
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad9cf5396e3b674598c620ce7586df9
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 191
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2285959710d38624f9d8e3802d87b528
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 191
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d8629a8d889d84593309ac9b25d27a
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 191
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d047abad785f9459e3e2947aa5cef8
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 191
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8164dfa8afb7c84b9ab3cb59dde8d3c
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 191
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e21bd3f04014047a79b596f49e6219
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 191
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed06978b83c26bd4e9e6de6f0471dfdf
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 191
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f6ae95ca2828a42a3bfb50efec8353
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_14
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 191
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f58f51440515f48a8ebbc2b0f3844d
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_15
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 191
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3090cb099d8e1441b00532e5506b60e
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 175
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddc46b1322544b4ba92894e4fcea534
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 175
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207d30e05cd4c814c9ead207b9f0e0e0
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 173
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a2846e8e3e651468399ba6eff1df8e
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 174
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7672ba8529ff7e54d8b6216b64585762
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 176
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4158fb7b179974595218535d6c186f
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 174
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ca672459050e24181381738e9e4729
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 174
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bc1795453b78b45a5f8fe472cb1b62
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_23
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 175
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18521736c267b174585d04ebf71f2e01
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_24
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 176
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0029fe6071e9acd47858a76d0cfd25a2
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 174
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cb6f1c322669c40beaf155bca28c20
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 174
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0381444150b1e1409b520bdbfefd7fa
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_27
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 174
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99eaab6d1309a14b830eb27077d2824
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 174
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588fdd287387f8c41b15d61bbc375d48
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_29
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 174
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4925008dce65b0e4a8a321e5a73799ae
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954ed94739253ab4788c5cfe5379193e
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 174
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a211ddbf02e28c64181903950b740a67
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 158
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305fc682f274d5a4495e818da6088469
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_33
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 158
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b17879f09eadba45bc71733b2343829
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 158
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5be01ffded1f26428f8418a3a4e62a9
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_35
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 158
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b971efdedcb857143aac791f0db9cdd6
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 158
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919db3934113c044ebacbc1354d19452
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 157
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5633928abae1c894a9c4cef972ad7f2a
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_38
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 157
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3fac08a8e644a44946b410b9e3832e
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 159
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37e9d893462e764f8d887d2188c193c
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_40
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 158
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b164705b65626b44ebcfc22f8f602ede
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_41
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 158
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f781ac546b709fe459ea04e7a941a416
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_42
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 158
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e89d161924ffc849aa2cb70fa321238
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 158
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d5a1af92d2a034181d7b90e1c76a07
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_44
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 158
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4190d7aa41d194893e152ad33811a9
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_45
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 158
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6abfbeb93d10040bd0556d84c63c48
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_46
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 158
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f411a8589786f2f469c82e8f72288cad
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 158
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91645883c6e2ca247beab3dfcbf5be9c
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 142
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb98ce15498465d409bedc99753e0156
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_49
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 142
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f09a25063fd9c84ea269d1c0294a1cd
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_50
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 142
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6978656cb18191d428473c98d5912b09
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_51
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 143
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a197859374ea04f96ed0a3b7aefbe0
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_52
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 143
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befb835e24e2ac7439ec930c06ea935e
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_53
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 143
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc39381356e4e049bae9897149d6678
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_54
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 143
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3dc66d09567f84ab548c9b3d7f8d04
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_55
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 143
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef68ba74c1c783d44857b7d53332d8a5
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_56
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 143
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfccf1427762b0441ac1615b922e7052
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_57
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 141
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6623ad9237bc0f448bd6b25a99f421a5
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3187516c9652c45a947f35eb846fb6
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_59
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 127
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6be417bd825ed448c9500e85e67712
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_60
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ced83eb74df7494bbb9f0d5400254d6
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_61
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0806225c71a27414da0924427739d890
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_62
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c684f7cb046de7341ad37106b1531f8c
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_63
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d52dc2535421bc4699687e9bb0ac8ad
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_64
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f34570bafd25f49853bcdfae7f7c00
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_65
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 126
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b50e70c3e6817409e311bb17c3b9e0
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_66
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 126
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5293622ee36f9d40b6bd8c00430ca82
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_67
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 127
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532ee0f8e75847243a2d1ba60ea21601
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_68
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 127
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f4aa4ce6693464984e0c9240755c77
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_69
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd746500086d49142a0c20c462cbc819
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_70
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a58d82078561b49ad5789625059dfe
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_71
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2c155f590db40419f3d4bb348795cc
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_72
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396acec2828f5b544a474136e75dd4bb
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_73
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303f9b62acf0fe04489cb7226897845b
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_74
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 110
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aecaf3c41bf046489ab218ad9c7b7e4
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_75
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 110
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbedf90670091045a7af64f693b4651
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_76
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 111
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b8a9bd8642fd349b749e512b693f53
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_77
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 111
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2071bdaaa0a7da468a1e85ade16f559
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_78
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 111
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde9b993d98764247a57739525a79c3e
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 111
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3393f80d9ab8f146b3599cd7dd2bd55
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_80
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 111
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb419ac55bc389143a632fac1432f4c0
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_81
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 111
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1fb553cd062ca4aad7cb5a00efebc3
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_82
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 111
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8d3a3f250e7ae4bae957c3226a1119
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_83
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 111
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02e615efeac76f438a806290a6728ce
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_84
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 111
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63db6b5ce04594a49ba31f794d4a5106
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_85
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 110
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43982874e69eecf40858bbe776dc29d3
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_86
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 110
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28b6187b8bf0df4f974b02684e0d654
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_87
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 110
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a101d3f5469ac244c8bc8290b4fa14aa
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_88
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 110
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba6d9c809baf0a4c9e49a53422276f5
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_89
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 110
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becbc6de84b909142b2a984c90a05980
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead22f9776f3fd54ab25b71f0bd39d40
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_91
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 94
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a909395686c9bb041901aa180e687fcd
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_92
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 95
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46551cae065fcb947ad59be59c45ea1e
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_93
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 95
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcd6fb006198c344809ba855dd23827
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_94
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 95
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c455230e8d2874d8718613b623edbe
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_95
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 95
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b873d5799c457e41a5ebd077ba1daee
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_96
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 95
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950d7e6856c647445a9a44a9019cbc96
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_97
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 95
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ca0e3f17236114ba194db141e741d5
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_98
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 95
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0e21c7e76b96b418e081903834aa83
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_99
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 95
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9ea77c977757449acc01574150207b
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_100
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 96
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748180057bb51284c9301a89124c4c74
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_101
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 95
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4c40c3c55e6094b9024d695be10d74
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_102
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65ea3774bf6b12468ec43a6bc767088
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_103
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 94
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418f1f833536ff04ba3f7709dff51fc0
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_104
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 95
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d6b48e26ec2e34b9e8729f3c9c3f1a
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_105
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 95
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b2911b21ca5d54699b9a7544643f76
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_106
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 79
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec2263c064d11744b2977e25c75199e
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_107
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c66f5ed5f539b428cb4ad9243dcdd3
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_108
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 80
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d7bb56e74946746bb46a8dc0a930ad
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_109
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 80
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6646c6154aa064a86c944438cd5854
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_110
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 79
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e453e0abb5678e2449f0686dbf3ae144
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_111
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 79
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888e3694ccdd99e428dbcdc4587972ac
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_112
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 79
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3712e3a188517a43bf7969715281d7b
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_113
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 78
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f30141d1cdb52b4e8feb5d5b141db3f
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_114
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 79
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6c556a077d8264789bda3a0f6689eb
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_115
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 79
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50574cc48327e8428af39818c189655
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_116
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 79
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36d74b1aa6a54946b42e924384825a6
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_117
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 79
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb56be903107ce4fad2253aa6ffba9b
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_118
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 79
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e276d2a16d93424aa41287e4587249f
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_119
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 79
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046722ff7a8eec743b45a1de6d2a837f
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_120
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 79
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9ca8f01036e904eae214fc6c4cdf76
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_121
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 78
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528341970e7ba584bbe2cc81f482823c
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_122
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 62
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aad8383186552489b71a1b7f2e4f07
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_123
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 62
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604e623eafb64cb44bc918dbf246ab71
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_124
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 62
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893559bbb62239e4e9aabd5722445b9c
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_125
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 62
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8066190a7becb4f865a3d91e102933
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_126
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 62
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ac393c2eeae3b45a284bc326631a85
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_127
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 62
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cefcb108725924ba571d9b021dbe83
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_128
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 63
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e15467233ec7f41ad29928fd49743a
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_129
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 63
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263d40e879a50364c8811654f8a5b740
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_130
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 63
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d1a0dff834c864b9a2021a26d261d0
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_131
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 63
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90709dac405ef046bb3fc6e68ffa2cd
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_132
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 63
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c692d91dca83824fbc5a44c649be67b
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_133
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 63
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8804181cf5f08504aa45e18c0ac8f31d
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_134
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 62
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43838ac160ef8494e90c1e8da6720ce4
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_135
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 62
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3b936637ded524eb6bcdec528dc600
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_136
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 63
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b759819176102468f96dd41cc9786a
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_137
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 63
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80ec3cc1513b674eb4885733a1881ed
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_138
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 47
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab1d69a48cbaf044809f86018393cbc
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_139
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 49
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e645728384d3041a12f99d861427a0
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_140
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 47
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5be5440aa8782449d3808d73283424
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_141
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 47
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c32f84461404f40a696ed6f73a27d6
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_142
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 46
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66319a5fb63625f45aad20194b2f26fb
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_143
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 47
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa9579f541a30040be2cc291d6457df
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_144
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 46
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8b4871e0aad6e41ad2570a06be4f11
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_145
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 46
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e6042eb3758b94ea7be1e6c2e631b5
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_146
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 46
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcabca2687a6cd040bd62a0e1b8d5766
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_147
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 46
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75f0dae7c754c34eb0b9f1359309685
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_148
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 48
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce3f104135c1b7448b787becb38ee0e
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_149
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 48
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c8f7252658d0c41bbb81ddf54198d4
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_150
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 47
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37641972d561f7b40be717fde2e95161
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_151
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 47
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77df4555818432a45b1a341c6af414a9
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_152
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 47
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45f9e20458ff6c49b3a292ae9f094e8
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_153
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 47
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fe93f36bf1a5a4fa20ecaee060841c
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_154
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 30
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e809dad2928b5e4fbac93f121e73af3
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_155
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 32
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05cf0fe7aff9de4ca8ec25aaa3ebb15
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_156
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61669bd60b1d17a418770c5a8372dcd0
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_157
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 31
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65140f2c9890d2640b3b4d5f9d9177f1
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_158
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 32
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24c59a8b63007f4b9a0324f95a779d4
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_159
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 31
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbd300effc605341a7399d7e357a65f
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_160
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 31
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5ad67b2f9ca6c448d8bbf54f248e13
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_161
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 31
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fc7931011875545aa5fd1c33d7d057
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_162
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 32
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272b9e293d1ed054bb23a9bf36b88f44
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_163
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0402ddd131e298843973250fc0329bec
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_164
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 31
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8476168acc22abf43b150f02af229a72
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_165
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 31
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5c985f59ac8aa41a1253c404a265c3
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_166
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 32
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dae45f3cc5b4e84c9783de5d433ae15
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_167
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 30
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c3ea5121a031141a2c161973b1abef
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_168
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 31
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0bbd57cd1cc084d839c0402bd7f135
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_169
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 30
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3730a7969019e404bb8ba789cd517857
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_170
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1c33a0519f5de4eb06bc9b627bdfcf
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_171
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 5
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1bd69183960044fa8be70c9a13754e
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_172
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 5
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24a67769c978d34880d5f0b0c7513fe
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_173
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 5
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255ffb06d684d91499a295e6b501afdf
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_174
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 4
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6520e67e9defdc4bbbd0600a1ad8762
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_175
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 4
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ced1293f9d3f24d955843f3d0c787e
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_176
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 4
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41a709fe4561b946acae190aab0eba3
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_177
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 4
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b21658edc30414d877405180805011
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_178
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 5
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c262bfd488309f499cbeca9f0c06eba
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_179
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 4
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429f057718c4b3d438430d2601d4002d
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Adventure Bar Story - Item Icons_180
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 7
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba9112d1963a9c408ae2c1cecad8e8d
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4a43607b2c882ba4297c1308532a7611
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
