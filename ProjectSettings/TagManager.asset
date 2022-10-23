@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - enemy
+  - player_leg
+  - enemy_top
+  - Ladder
+  - spike
+  - player_body
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ladder
+  - ground
+  - enemy
+  - player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 1922272637
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: player
+    uniqueID: 3474469073
+    locked: 0
+  - name: enemy
+    uniqueID: 1676486735
+    locked: 0
+  - name: object
+    uniqueID: 725179707
+    locked: 0
+  - name: Util
+    uniqueID: 2106990027
+    locked: 0
+  - name: UI
+    uniqueID: 474320159
+    locked: 0
