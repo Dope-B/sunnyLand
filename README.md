@@ -1,6 +1,6 @@
 # SunnyLand
 
-#### 사용기술: Unity(2020.1.6f1 버전업)
+#### 사용기술: Unity(2018.2.8f1 -> 2020.1.6f1 버전업)
 #### 제작기간: 2018.08.05~2018.11.13
 <p>
 <img width="30%" src="https://user-images.githubusercontent.com/33209821/229788373-7e86ff8f-048d-4351-b336-cdfff861c627.png"/>
